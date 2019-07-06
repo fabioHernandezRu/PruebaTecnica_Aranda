@@ -1,0 +1,6 @@
+﻿  Punto1PruebaTecnica.cpp
+C:\Users\f_a_b\source\repos\Punto1PruebaTecnica\Punto1PruebaTecnica.cpp(44,15): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\f_a_b\source\repos\Punto1PruebaTecnica\Punto1PruebaTecnica.cpp(46,13): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\f_a_b\source\repos\Punto1PruebaTecnica\Punto1PruebaTecnica.cpp(23,27): warning C4101:  'e': unreferenced local variable
+C:\Users\f_a_b\source\repos\Punto1PruebaTecnica\Punto1PruebaTecnica.cpp(27,23): warning C4101:  'e': unreferenced local variable
+  Punto1PruebaTecnica.vcxproj -> C:\Users\f_a_b\source\repos\Punto1PruebaTecnica\Debug\Punto1PruebaTecnica.exe
