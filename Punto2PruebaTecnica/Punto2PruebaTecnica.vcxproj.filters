@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\include">
+      <UniqueIdentifier>{f928f224-07fc-4813-9b55-f7df5bf8da04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\include\cpr">
+      <UniqueIdentifier>{d7cef67b-6e22-4e51-aa1c-f53501ec841a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Punto2PruebaTecnica.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\auth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\cookies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\cprtypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\digest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\error.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\multipart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\parameters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\payload.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\proxies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\session.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\ssl_options.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\timeout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpr\util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\cpr\api.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\auth.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\body.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\cookies.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\cpr.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\cprtypes.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\curlholder.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\defines.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\digest.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\error.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\low_speed.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\max_redirects.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\multipart.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\parameters.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\payload.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\proxies.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\response.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\session.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\ssl_options.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\timeout.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\cpr\util.h">
+      <Filter>Source Files\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="include\json.hpp">
+      <Filter>Source Files\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="cpr\CMakeLists.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
